@@ -154,12 +154,6 @@ curl "http://localhost:8000/api/v1/posts/search?q=technology"
 - `created_at` - Timestamp
 - Unique constraint on (user_id, post_id)
 
-## Development
-
-The database file `aipromptapp.db` will be created automatically when you first run the application.
-
-To reset the database, simply delete the `aipromptapp.db` file and restart the application.
-
 ## License
 
 MIT
