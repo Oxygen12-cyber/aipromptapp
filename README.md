@@ -1,4 +1,4 @@
-# AI Prompt Sharing Backend
+# **Prompt.ly:** AI Prompt Sharing Backend
 
 A Twitter-like backend for sharing AI prompts, built with FastAPI and SQLAlchemy.
 
